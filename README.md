@@ -1,0 +1,2 @@
+# TestBot
+Default bot settings
