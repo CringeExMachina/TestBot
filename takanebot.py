@@ -3,8 +3,8 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup,KeyboardButton
 
-TOKEN = '5725307648:AAGx7QONU7ONM8CagfRIGvu9ecfraC0jCDA' 
-CHAT_ID = '758457005'  
+TOKEN = 
+CHAT_ID =   
 
 bot = Bot(token=TOKEN)
 dispatcher=Dispatcher(bot=bot)
